@@ -3,10 +3,17 @@ body {
     padding: 0;
 }
 
-* {
-    box-sizing: border-box;
-}
-
 .box {
     padding: 50px;
+}
+
+.footer {
+    padding: 60px 0;
+    background-color: #BDED35;
+}
+
+.footer__title {
+    margin: 0;
+    text-align: center;
+    font-size: 24px;
 }
